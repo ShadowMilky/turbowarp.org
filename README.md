@@ -1,4 +1,4 @@
-Backend logic for turbowarp.org and some of its subdomains
+Backend logic for turbowarp.org and some of its subdomains.
 
 It's really just a static file server with some extras:
 
@@ -9,7 +9,7 @@ It's really just a static file server with some extras:
  - Redirects for old experiments
  - Probably no major security exploits.
 
-Known file types can be configured in types.js
+Known file types can be configured in types.js.
 
 Hosts and their roots can be configured in hosts.js. branches controls whether this root uses branches (like https://experiments.turbowarp.org/no-limits/).
 
